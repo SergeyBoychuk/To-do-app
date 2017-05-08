@@ -1,1 +1,1 @@
-# This is a starting point for any web based projects.
+# Simple To-Do task maker, built using vanilla js.
